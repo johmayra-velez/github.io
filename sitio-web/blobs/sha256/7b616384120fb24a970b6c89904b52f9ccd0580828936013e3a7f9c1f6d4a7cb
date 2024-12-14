@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "mediaType": "application/vnd.oci.image.manifest.v1+json",
+  "config": {
+    "mediaType": "application/vnd.oci.image.config.v1+json",
+    "digest": "sha256:6b7204106ad45d75295edce8a131611fa7977723767577107c560908684bf46a",
+    "size": 9442
+  },
+  "layers": [
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:2d429b9e73a6cf90a5bb85105c8118b30a1b2deedeae3ea9587055ffcb80eb45",
+      "size": 29127995
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:20c8b3871098cc8cbb0dc3a0d9fff85326f357cc0f2ebeed38843ed44e346165",
+      "size": 43842148
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:06da587a7970beffb5735487f80fb2a94fb353a4fa23905b30cae77e31ac7f66",
+      "size": 628
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:f7895e95e2d41955d4e6384b48a17061b8af731c2b7d65cc4a73959ae7efb9e5",
+      "size": 955
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:7b25f3e99685743fae1cd34da16375451874740dab555338bb8c821cdf16ca9f",
+      "size": 404
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:dffc1412b7c849a457acf445a51fb2a49036d8a4a766f967b3f36780e55e945d",
+      "size": 1208
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:d550bb6d18002851893cecfccc1fbbe858b366f917cf424e48820c9470b129ae",
+      "size": 1397
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+      "size": 32
+    },
+    {
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "digest": "sha256:40b8036c015417f95a94a1d5ffe9816c790ddc260d506a573e1fb78a83a8ddc7",
+      "size": 82265163
+    }
+  ]
+}
